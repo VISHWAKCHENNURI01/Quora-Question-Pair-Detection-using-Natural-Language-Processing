@@ -1,6 +1,8 @@
 streamlit
-tensorflow-cpu==2.12.0
+tensorflow-cpu==2.13.0
 sentence-transformers
 scikit-learn
+pandas
 numpy
+nltk
 torch
