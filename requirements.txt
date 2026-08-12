@@ -1,4 +1,5 @@
 streamlit
+tensorflow-cpu==2.12.0
 sentence-transformers
 scikit-learn
 numpy
